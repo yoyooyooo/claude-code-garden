@@ -30,6 +30,12 @@ cp -r .claude /your/project/path/
 - 📝 **Personal Practice Notes** - Real-world usage insights and workflows
 - 🌟 **Community Best Practices** - Curated excellent practices from the community
 
+## Development Notes
+
+⚠️ **Multi-language Sync Requirement**: When modifying Chinese documentation, all other language versions must be updated correspondingly to maintain consistency across the repository.
+
+🤖 **Meta Practice**: This repository itself is largely created and maintained using Claude Code — using Claude Code to optimize Claude Code usage experience is the ultimate practice validation.
+
 ---
 
 *Select your preferred language above for detailed documentation*
